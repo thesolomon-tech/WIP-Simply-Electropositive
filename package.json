@@ -1,0 +1,15 @@
+{
+  "name": "simple-electron-app",
+  "version": "1.0.0",
+  "description": "A simple as possible production-ready Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Solomon Khoury",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.2.0",
+    "electron": "^28.1.3"
+  }
+}
